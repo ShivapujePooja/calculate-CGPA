@@ -8,7 +8,7 @@ class Main {
         System.out.println("enter the number of subjects");
         int n = ob1.nextInt();
         System.out.println("enter your information");;
-        for(int i=1;i<=n;i++)
+        for(int i=1; i<=n; i++)
         {
             System.out.print("credit points:");
             System.out.println("grade points:\t");
